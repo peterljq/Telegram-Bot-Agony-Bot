@@ -1,5 +1,5 @@
 # Telegram-Bot-Agony-Bot
-![](https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/320px-Nanyang_Technological_University.svg.png) ![](https://blog.stanis.ru/img/70858.jpg)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/320px-Nanyang_Technological_University.svg.png)
 
 Nowadays, Internet has occupied a lot of space and time in our daily life. However, since we can use fake names, we can hardly find someone to share our true feelings about things in daily life. To solve this kind of problem, we want to create a platform that people can open his or her heart without any hesitation by making the contact anonymous. As a result, the Agony Bot was created.
 
