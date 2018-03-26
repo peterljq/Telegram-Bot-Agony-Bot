@@ -1,11 +1,11 @@
 # Telegram-Bot-Agony-Bot
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/320px-Nanyang_Technological_University.svg.png)
+***
+It was the best of times, it was the worst of times. Nowadays, we are living such a busy and rush life. Happy or sad, good or terrible, we can hardly find someone to share our true feelings and ideas. 
 
-Nowadays, Internet has occupied a lot of space and time in our daily life. However, since we can use fake names, we can hardly find someone to share our true feelings about things in daily life. To solve this kind of problem, we want to create a platform that people can open his or her heart without any hesitation by making the contact anonymous. As a result, the Agony Bot was created.
+To solve this kind of problem, we want to create a platform that people can open his or her heart without any hesitation by making the contact **anonymous**. As a result, the Agony Bot on Telegram was created.For your convenience, please download all the file in a packed zip and then unzip it. 
 
-For your convenience, please download all the file in a packed zip and then unzip it. 
-
-Remember to change the API number in user2.py to your own unique series. **__DO NOT__** directly run user2.py which will use my API number and cause unnecessary inconvenience.
+Remember to **change the API number** in user2.py to your own unique series. **__DO NOT__** directly run user2.py which will use my API number and cause unnecessary inconvenience.
 
 After getting your own Telegram API number from **Bot Father**, run **user2.py** and then see the command window reporting the status of MySQL database. Your desktop or local sever provider should be conected to Internet and installed with **MySQL benchmark** correctcly. 
 
