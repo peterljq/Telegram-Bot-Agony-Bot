@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-TOKEN = '433340494:AAG_h5rM2oB_l3QOiNH_jlgskgd-QXePGD4'
+TOKEN = 'Your own token'
 
 import time
 import telepot
