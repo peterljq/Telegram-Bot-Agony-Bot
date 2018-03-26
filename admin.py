@@ -1,4 +1,4 @@
-TOKEN = '406823099:AAEedgrkGSbHl0mWOq5wowluQ088EREb8QE'
+TOKEN = 'Your own token'
 import time
 import telepot
 from dbhelper1 import DBHelper
