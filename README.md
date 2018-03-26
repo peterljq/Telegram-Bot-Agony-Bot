@@ -5,9 +5,14 @@ Nowadays, Internet has occupied a lot of space and time in our daily life. Howev
 
 For your convenience, please download all the file in a packed zip and then unzip it. 
 
-Run **user2.py** and then see the command window reporting the status of MySQL database. Your desktop or local sever provider should be conected to Internet and installed with MySQL benchmark correctcly. 
+Remember to change the API number in user2.py to your own unique series. **__DO NOT__** directly run user2.py which will use my API number and cause unnecessary inconvenience.
 
-Find 'Agony Bot' on Telegram and press 'Start'. Now you can enjoy the anonymous chat/interactions with your friends.
+After getting your own Telegram API number from **Bot Father**, run **user2.py** and then see the command window reporting the status of MySQL database. Your desktop or local sever provider should be conected to Internet and installed with **MySQL benchmark** correctcly. 
 
-Claim: This project is currently under development. Python codes are contributed by our Team, which consists 5 players: **Chen Taoyu, Yang Jingyi, Guo Mukun, Chen Feiyu and Luo Jinqi**. Please feel free to report any bugs you find. 
+Edit **publish.py** with messages that you want to publish to all the bot followers on the telegram. Run that file to publish.
+
+Find 'Agony Bot' on Telegram and now press 'Start'. You can enjoy the anonymous chat/interactions with your friends.
+
+***
+Claim: Conducted by the School of Computer Science and Engineering in Nanyang Technological University, the general assessment and grading of this project is finished. Python codes are contributed by our Team, which consists 5 players: **`Chen Taoyu`**, **`Yang Jingyi`**, **`Guo Mukun`**, **`Chen Feiyu`** and **`Luo Jinqi`**. Please feel free to report any bug you find. 
 
