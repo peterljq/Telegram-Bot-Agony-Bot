@@ -17,8 +17,8 @@ class Quote(object):
 #以下进入爬虫检索网页阶段，高度依靠网页编写者的良心。
         layer_one = body.find('strong',attrs={'style':'color: #0b5394;'})
         layer_two = body.find('div',attrs={'style':'text-align: center; margin-top: -18px; margin-bottom: 18px;'})
-        writer=layer_two.get_text()
-        quote=layer_one.get_text()
+        writer = layer_two.get_text()
+        quote = layer_one.get_text()
         return writer, quote
 #8.16：睡觉前灵光一现，完善函数：第二种方法：直接爬取layer_two所有子项的文字（包括内容及作者），而且不涉及具体地址，可以长久发展更新。
 #至此函数定义结束
