@@ -1,6 +1,6 @@
 # Telegram-Bot-Agony-Bot
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/320px-Nanyang_Technological_University.svg.png)
-***
+
 Background
 ----------
 It was the best of times, it was the worst of times. Nowadays, we are living such a busy and rush life. Happy or sad, good or terrible, we can hardly find someone to share our true feelings and ideas. 
